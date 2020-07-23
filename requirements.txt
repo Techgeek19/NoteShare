@@ -36,7 +36,7 @@ env==0.1.0
 feedparser==5.2.1
 gitsome==0.8.4
 html5lib==1.0.1
-httplib2==0.11.3
+httplib2==0.18.0
 hyperlink==19.0.0
 idna==2.6
 importlib-metadata==0.23
